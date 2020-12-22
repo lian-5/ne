@@ -5,4 +5,7 @@
 :id: 5fe20193-6dc9-4273-be1a-fcbb72982dff
 :END:
 ** 我开始遵从我所了解到的信息，来确定我自己的情况，而我印象深刻的信息是——七宗罪
+:PROPERTIES:
+:background_color: rgb(121, 62, 62)
+:END:
 **
