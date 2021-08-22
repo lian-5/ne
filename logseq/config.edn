@@ -81,4 +81,5 @@
  :macros {}
    :feature/enable-journals? false
    :default-home {}
-   :feature/enable-timetracking? true}
+   :feature/enable-timetracking? true
+   :editor/logical-outdenting? true}
