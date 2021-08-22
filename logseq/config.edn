@@ -83,4 +83,4 @@
    :default-home {}
    :feature/enable-timetracking? true
    :editor/logical-outdenting? true
-   :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? false}}
+   :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? true}}
