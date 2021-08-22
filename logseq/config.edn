@@ -82,4 +82,5 @@
    :feature/enable-journals? false
    :default-home {}
    :feature/enable-timetracking? true
-   :editor/logical-outdenting? true}
+   :editor/logical-outdenting? true
+   :graph/settings {:journal? true, :builtin-pages? true}}
